@@ -15,6 +15,9 @@ import javax.ws.rs.core.MediaType;
 // The browser requests per default the HTML MIME type.
 
 //Sets the path to base URL + /hello
+/*
+ * author: Vogella
+ */
 @Path("/hello")
 public class Hello {
 
